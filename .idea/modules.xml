@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/joined-table/joined-table.iml" filepath="$PROJECT_DIR$/joined-table/joined-table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapped-super-class/mapped-super-class.iml" filepath="$PROJECT_DIR$/mapped-super-class/mapped-super-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/single-table/single-table.iml" filepath="$PROJECT_DIR$/single-table/single-table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-jpa-entities-inheritance-mapping.iml" filepath="$PROJECT_DIR$/spring-jpa-entities-inheritance-mapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/table-per-class/table-per-class.iml" filepath="$PROJECT_DIR$/table-per-class/table-per-class.iml" />
+    </modules>
+  </component>
+</project>
